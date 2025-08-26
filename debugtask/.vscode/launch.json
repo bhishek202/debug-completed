@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<login-debug-task>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.iqreate.demo.DemoApplication",
+            "projectName": "login-debug-task",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
